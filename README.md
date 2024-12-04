@@ -14,18 +14,18 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-**Developed by : VASANTH N     
-Register Number : 24000697**
+## Developed by : VASANTH N   
+## Register Number : 24000697
 
-import numpy as np    
-
-a = np.array([[1,-3], [3,1]])      
-
-b = np.array([0,10])          
-
-res=np.linalg.solve(a,b)      
-
-print(res)      
+        import numpy as np    
+        
+        a = np.array([[1,-3], [3,1]])      
+        
+        b = np.array([0,10])          
+        
+        res=np.linalg.solve(a,b)      
+        
+        print(res)      
 
 ## Output:
 ![Screenshot 2024-11-29 103400](https://github.com/user-attachments/assets/8ace35dc-6bfd-48b6-826c-80c7420113f6)
